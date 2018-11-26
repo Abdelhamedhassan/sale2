@@ -10,7 +10,7 @@ client.on('ready', async() => { // ولا تعدل شي في اي مكان غي�
 var server = "516382137197264916"; // ايدي السررفر اللي بتحط فيه البوت
 var channel = "516383816839856142";//ايدي الروم اللي بسوي فيه سبام البوت
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('```INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ ') 
+    client.guilds.get(server).channels.get(channel).send(' **TRIX SPAM BOT** ~~BY TRIX~~ **TRIX SPAM BOT** ~~BY TRIX~~  **TRIX SPAM BOT** ~~BY TRIX~~  **TRIX SPAM BOT** ~~BY TRIX~~  **TRIX SPAM BOT** ~~BY TRIX~~  **TRIX SPAM BOT** ~~BY TRIX~~  ') 
     },305);
 })
 
