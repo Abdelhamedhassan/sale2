@@ -7,8 +7,8 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => { // ولا تعدل شي في اي مكان غير تحت
-var server = "509357857666236430"; // ايدي السررفر اللي بتحط فيه البوت
-var channel = "509357857666236434";//ايدي الروم اللي بسوي فيه سبام البوت
+var server = "516382137197264916"; // ايدي السررفر اللي بتحط فيه البوت
+var channel = "516383816839856142";//ايدي الروم اللي بسوي فيه سبام البوت
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('```INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ INCR_iSryManYT SPAAAAM ~ ') 
     },305);
